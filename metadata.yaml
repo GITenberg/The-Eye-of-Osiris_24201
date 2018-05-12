@@ -1,0 +1,34 @@
+_repo: The-Eye-of-Osiris_24201
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Freeman, R. Austin (Richard Austin)
+    alias: Freeman, Richard Austin
+    birthdate: 1862
+    deathdate: 1943
+    gutenberg_agent_id: '3551'
+    url: http://www.gutenberg.org/2009/agents/3551
+description: This is the tantalizing tale of a missing world-renowned archaeologist
+  that, so far, no one seems to be able to find. Dr. Thorndyke, our detective, is
+  unusually perceptive and begins to find clues leading to a man with a tattoo of
+  the "Eye of Osiris."
+gutenberg_issued: '2008-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '24201'
+language: en
+publication_note: '1911'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Detective and mystery stories'
+- !lcsh 'Physicians -- Fiction'
+- !lcsh 'London (England) -- Fiction'
+- !lcsh 'Thorndyke, Doctor (Fictitious character) -- Fiction'
+- !lcc 'PR'
+title: The Eye of Osiris
+url: http://www.gutenberg.org/ebooks/24201
